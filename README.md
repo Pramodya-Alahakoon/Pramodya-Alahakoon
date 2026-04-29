@@ -14,8 +14,6 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
-<br/>
-
 ### 👋 Hello, I'm **Pramodya Alahakoon**
 
 🎓 **Software Engineering Undergraduate** at SLIIT (3rd Year) <br/>
@@ -23,7 +21,6 @@
 💼 **Aspiring:** Full-Stack Developer, Mobile App Developer & DevOps Engineer <br/>   
 🎯 **2026 Goals:** Master microservices, deepen cloud knowledge & contribute to open source 
 
-<br/>
 
 ### 🚀 What Drives Me
 
@@ -44,7 +41,6 @@ const pramodya = {
 🔹 **Architecture:** MVC, Microservices & clean code principles <br/>
 🔹 **DevOps:** Automating deployments & CI/CD
 
-<br/>
 
 ### 🌱 Currently Exploring
 
