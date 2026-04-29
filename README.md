@@ -12,7 +12,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
+<h3><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me</h3>
 
 ### 👋 Hello, I'm **Pramodya Alahakoon**
 
@@ -22,7 +22,7 @@
 🎯 **2026 Goals:** Master microservices, deepen cloud knowledge & contribute to open source 
 
 
-<h1> ### 🚀 What Drives Me </h1>
+<h3>🚀 What Drives Me </h3>
 
 ```javascript
 const pramodya = {
@@ -33,7 +33,7 @@ const pramodya = {
 };
 ```
 
-### 💡 My Focus Areas
+<h3>💡 My Focus Areas </h3>
 
 🔹 **Mobile Dev:** Building Android apps with Kotlin & Flutter/Dart  
 🔹 **Frontend:** Crafting responsive web UIs with React & JavaScript  
@@ -42,7 +42,7 @@ const pramodya = {
 🔹 **DevOps:** Automating deployments & CI/CD
 
 
-### 🌱 Currently Exploring
+<h3> 🌱 Currently Exploring </h3>
 
 <div align="left">
   <img src="https://img.shields.io/badge/-Flutter_%26_Dart-informational?style=flat&logo=flutter&logoColor=white&color=A78BFA" />
