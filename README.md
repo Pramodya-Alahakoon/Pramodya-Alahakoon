@@ -21,7 +21,7 @@
 💼 **Aspiring:** Full-Stack Developer, Mobile App Developer & DevOps Engineer <br/>   
 🎯 **2026 Goals:** Master microservices, deepen cloud knowledge & contribute to open source 
 
-
+<br/>
 <h3>🚀 What Drives Me </h3>
 
 ```javascript
@@ -32,7 +32,7 @@ const pramodya = {
     growing:   "Leveling up every single day 🚀"
 };
 ```
-
+<br/>
 <h3>💡 My Focus Areas </h3>
 
 🔹 **Mobile Dev:** Building Android apps with Kotlin & Flutter/Dart  
