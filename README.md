@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=Pramodya%20Alahakoon&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Software%20Engineering%20Undergraduate%20%7C%20Full%20Stack%20Developer%20%7C%20Mobile%20App%20Developer&descSize=18&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=Pramodya%20Alahakoon&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=DevOps%20Enthusiast%20%7C%20Full%20Stack%20Developer%20%7C%20Mobile%20App%20Developer&descSize=18&descAlignY=55" width="100%"/>
 </div>
 
 <div align="center">
@@ -28,20 +28,15 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:8B5CF6,100:6D28D9&height=120&section=header&text=Meet+Pramodya&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
-</div>
 
 <br/>
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Coding Animation"/>
-
 ### 👋 Hello, I'm **Pramodya Alahakoon**
 
-🎓 **Software Engineering 3rd Year Undergraduate** at SLIIT  
+🎓 **Software Engineering Undergraduate** at SLIIT (3rd Year)
 📍 **Location:** From Matara · Currently in Malabe 
-💼 **Aspiring:** Full Stack Developer & Mobile App Developer  
-🎯 **2026 Goals: Master microservices, deepen cloud knowledge & contribute to open source**
+💼 **Aspiring:** Full-Stack Developer, Mobile App Developer & DevOps Engineer    
+🎯 **2026 Goals:** Master microservices, deepen cloud knowledge & contribute to open source
 
 <br/>
 
