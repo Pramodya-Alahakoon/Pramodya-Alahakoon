@@ -38,10 +38,10 @@
 
 ### 👋 Hello, I'm **Pramodya Alahakoon**
 
-🎓 **Software Engineering Undergraduate** at SLIIT  
-📍 **Location:** Sri Lanka 🇱🇰 (UTC +05:30)  
+🎓 **Software Engineering 3rd Year Undergraduate** at SLIIT  
+📍 **Location:** From Matara · Currently in Malabe 
 💼 **Aspiring:** Full Stack Developer & Mobile App Developer  
-🏆 **GitHub Achievement:** Pull Shark x2  
+🎯 **2026 Goals: Master microservices, deepen cloud knowledge & contribute to open source**
 
 <br/>
 
@@ -61,7 +61,8 @@ const pramodya = {
 🔹 **Mobile Dev:** Building Android apps with Kotlin & Flutter/Dart  
 🔹 **Frontend:** Crafting responsive web UIs with React & JavaScript  
 🔹 **Backend:** Building robust APIs & distributed systems  
-🔹 **Architecture:** MVC, Microservices & clean code principles  
+🔹 **Architecture:** MVC, Microservices & clean code principles
+🔹 DevOps: Automating deployments & CI/CD
 
 <br/>
 
@@ -80,9 +81,9 @@ const pramodya = {
 
 <div align="center">
   
-| 💼 Role | 🎓 Education | 🌍 Based In | ⚡ Superpower |
-|:-------:|:------------:|:-----------:|:-------------:|
-| SE Undergraduate | SLIIT | Sri Lanka 🇱🇰 | Problem Solving 🧠 |
+| 🎓 Education | 🌍 Based In | ⚡ Superpower |
+|:------------:|:-----------:|:-------------:|
+| SLIIT | Sri Lanka 🇱🇰 | Problem Solving 🧠 |
 
 </div>
 
@@ -233,183 +234,8 @@ const pramodya = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Coding Activity
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" />
 
-<div align="center">
-  
-```text
-🌅 Morning                ███████░░░░░░░░░░░░░░   28%
-🌞 Daytime                ██████████░░░░░░░░░░░   38%
-🌆 Evening                ████████░░░░░░░░░░░░░   26%
-🌙 Night                  ██░░░░░░░░░░░░░░░░░░░   08%
-```
-
-</div>
-
-<details>
-  <summary><b>💼 My Development Journey</b></summary>
-  <br/>
-  
-  - 🎓 Currently pursuing Software Engineering at SLIIT
-  - 📱 Passionate about Android (Kotlin) and cross-platform mobile (Flutter/Dart) development
-  - 💡 Love building end-to-end solutions — from UI to APIs to databases
-  - 🏆 GitHub Pull Shark x2 — actively contributing and collaborating
-  - 🎯 2026 Goals: Master microservices, deepen cloud knowledge & contribute to open source
-  - ⚡ Fun fact: I write cleaner code after a good cup of tea ☕
-  
-</details>
-
-<details>
-  <summary><b>🔥 Featured Projects</b></summary>
-  <br/>
-  
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">⚡ Electricity Monitoring App</h3>
-        <p align="center">
-          <a href="https://github.com/Pramodya-Alahakoon/Electricity-Monitoring-App" target="_blank">
-            <img src="https://via.placeholder.com/400x200/0D1117/A78BFA?text=Electricity+Monitor" alt="Electricity Monitoring App" />
-          </a>
-          <br/>
-          <br/>
-          <b>Description:</b> A Flutter/Dart app helping low-income families track real-time electricity usage, identify high-consumption appliances, and receive energy-saving tips.
-          <br/>
-          <br/>
-          <a href="https://github.com/Pramodya-Alahakoon/Electricity-Monitoring-App" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View-A78BFA?style=for-the-badge&logo=github" />
-          </a>
-          &nbsp;
-          <img src="https://img.shields.io/badge/Dart-Flutter-02569B?style=for-the-badge&logo=flutter" />
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">💸 Finance Tracker App</h3>
-        <p align="center">
-          <a href="https://github.com/Pramodya-Alahakoon/Finance-Tracker-App" target="_blank">
-            <img src="https://via.placeholder.com/400x200/0D1117/A78BFA?text=Finance+Tracker" alt="Finance Tracker App" />
-          </a>
-          <br/>
-          <br/>
-          <b>Description:</b> A Kotlin Android app using SharedPreferences for offline-first budget tracking — income, expenses, categories, and totals. No internet needed.
-          <br/>
-          <br/>
-          <a href="https://github.com/Pramodya-Alahakoon/Finance-Tracker-App" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View-A78BFA?style=for-the-badge&logo=github" />
-          </a>
-          &nbsp;
-          <img src="https://img.shields.io/badge/Kotlin-Android-7F52FF?style=for-the-badge&logo=kotlin" />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">💲 Futures PNL Calculator</h3>
-        <p align="center">
-          <a href="https://github.com/Pramodya-Alahakoon/Futures-PNL-Calculator" target="_blank">
-            <img src="https://via.placeholder.com/400x200/0D1117/A78BFA?text=PNL+Calculator" alt="Futures PNL Calculator" />
-          </a>
-          <br/>
-          <br/>
-          <b>Description:</b> A React + Ant Design tool to calculate profit/loss for USDT-M Binance futures. Supports long/short, leverage, fees, ROE, and net PnL.
-          <br/>
-          <br/>
-          <a href="https://github.com/Pramodya-Alahakoon/Futures-PNL-Calculator" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View-A78BFA?style=for-the-badge&logo=github" />
-          </a>
-          &nbsp;
-          <img src="https://img.shields.io/badge/React-JS-61DAFB?style=for-the-badge&logo=react" />
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🦁 Wild Safari Management System</h3>
-        <p align="center">
-          <a href="https://github.com/Pramodya-Alahakoon/Wild-Safari-Management-System" target="_blank">
-            <img src="https://via.placeholder.com/400x200/0D1117/A78BFA?text=Wild+Safari+System" alt="Wild Safari Management System" />
-          </a>
-          <br/>
-          <br/>
-          <b>Description:</b> A Java app using MVC architecture to manage safari staff, visitors, bookings, vehicles & route scheduling with clean code separation.
-          <br/>
-          <br/>
-          <a href="https://github.com/Pramodya-Alahakoon/Wild-Safari-Management-System" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View-A78BFA?style=for-the-badge&logo=github" />
-          </a>
-          &nbsp;
-          <img src="https://img.shields.io/badge/Java-MVC-ED8B00?style=for-the-badge&logo=openjdk" />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🏥 MediLink — AI Healthcare System</h3>
-        <p align="center">
-          <a href="https://github.com/Pramodya-Alahakoon/MediLink" target="_blank">
-            <img src="https://via.placeholder.com/400x200/0D1117/A78BFA?text=MediLink+Cloud" alt="MediLink" />
-          </a>
-          <br/>
-          <br/>
-          <b>Description:</b> MediLink Cloud — an AI-enabled distributed healthcare appointment system built with microservices architecture.
-          <br/>
-          <br/>
-          <a href="https://github.com/Pramodya-Alahakoon/MediLink" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View-A78BFA?style=for-the-badge&logo=github" />
-          </a>
-          &nbsp;
-          <img src="https://img.shields.io/badge/Microservices-Cloud-A78BFA?style=for-the-badge&logo=kubernetes" />
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🌱 Botaniq — Plant Store App</h3>
-        <p align="center">
-          <a href="https://github.com/Pramodya-Alahakoon/Plant-Store" target="_blank">
-            <img src="https://via.placeholder.com/400x200/0D1117/A78BFA?text=Plant+Store+App" alt="Plant Store" />
-          </a>
-          <br/>
-          <br/>
-          <b>Description:</b> A Kotlin Android app (classic XML + Activities) with plant catalog, search/filter, detailed views, cart, and favorites — no Jetpack or Firebase.
-          <br/>
-          <br/>
-          <a href="https://github.com/Pramodya-Alahakoon/Plant-Store" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View-A78BFA?style=for-the-badge&logo=github" />
-          </a>
-          &nbsp;
-          <img src="https://img.shields.io/badge/Kotlin-Android-7F52FF?style=for-the-badge&logo=kotlin" />
-        </p>
-      </td>
-    </tr>
-  </table>
-  
-</details>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 🤝 Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/pramodya-alahakoon128/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="https://github.com/Pramodya-Alahakoon" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>💭 Quote of the Day</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&animation=twinkling" width="100%"/>
