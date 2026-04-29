@@ -33,10 +33,10 @@
 
 ### 👋 Hello, I'm **Pramodya Alahakoon**
 
-🎓 **Software Engineering Undergraduate** at SLIIT (3rd Year)
-📍 **Location:** From Matara · Currently in Malabe 
-💼 **Aspiring:** Full-Stack Developer, Mobile App Developer & DevOps Engineer    
-🎯 **2026 Goals:** Master microservices, deepen cloud knowledge & contribute to open source
+🎓 **Software Engineering Undergraduate** at SLIIT (3rd Year) <br/>
+📍 **Location:** From Matara · Currently in Malabe  <br/>
+💼 **Aspiring:** Full-Stack Developer, Mobile App Developer & DevOps Engineer <br/>   
+🎯 **2026 Goals:** Master microservices, deepen cloud knowledge & contribute to open source <br/>
 
 <br/>
 
@@ -57,7 +57,7 @@ const pramodya = {
 🔹 **Frontend:** Crafting responsive web UIs with React & JavaScript  
 🔹 **Backend:** Building robust APIs & distributed systems  
 🔹 **Architecture:** MVC, Microservices & clean code principles
-🔹 DevOps: Automating deployments & CI/CD
+🔹 **DevOps:** Automating deployments & CI/CD
 
 <br/>
 
@@ -73,15 +73,6 @@ const pramodya = {
 <br clear="right"/>
 
 <br/>
-
-<div align="center">
-  
-| 🎓 Education | 🌍 Based In | ⚡ Superpower |
-|:------------:|:-----------:|:-------------:|
-| SLIIT | Sri Lanka 🇱🇰 | Problem Solving 🧠 |
-
-</div>
-
 <br/>
 
 <p align="center">
@@ -229,8 +220,6 @@ const pramodya = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" />
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&animation=twinkling" width="100%"/>
@@ -238,12 +227,9 @@ const pramodya = {
 
 <div align="center">
   <h3>🌟 Don't forget to star my repositories if you find them useful! 🌟</h3>
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150">
   <br/>
   <br/>
   <i>⭐ From <a href="https://github.com/Pramodya-Alahakoon">Pramodya Alahakoon</a> - Let's build something amazing together! 🚀</i>
   <br/>
   <br/>
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 </div>
