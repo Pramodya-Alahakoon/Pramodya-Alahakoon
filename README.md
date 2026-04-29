@@ -36,7 +36,7 @@
 🎓 **Software Engineering Undergraduate** at SLIIT (3rd Year) <br/>
 📍 **Location:** From Matara · Currently in Malabe  <br/>
 💼 **Aspiring:** Full-Stack Developer, Mobile App Developer & DevOps Engineer <br/>   
-🎯 **2026 Goals:** Master microservices, deepen cloud knowledge & contribute to open source <br/>
+🎯 **2026 Goals:** Master microservices, deepen cloud knowledge & contribute to open source 
 
 <br/>
 
@@ -56,7 +56,7 @@ const pramodya = {
 🔹 **Mobile Dev:** Building Android apps with Kotlin & Flutter/Dart  
 🔹 **Frontend:** Crafting responsive web UIs with React & JavaScript  
 🔹 **Backend:** Building robust APIs & distributed systems  
-🔹 **Architecture:** MVC, Microservices & clean code principles
+🔹 **Architecture:** MVC, Microservices & clean code principles <br/>
 🔹 **DevOps:** Automating deployments & CI/CD
 
 <br/>
