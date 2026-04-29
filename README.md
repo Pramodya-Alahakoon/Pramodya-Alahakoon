@@ -6,18 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=70&lines=%F0%9F%9A%80+Building+Real-World+Applications;%F0%9F%93%B1+Crafting+Mobile+%26+Web+Experiences;%F0%9F%92%BB+SE+Undergraduate+%40+SLIIT+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/pramodya-alahakoon128/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
-  </a>
-
-  <a href="https://github.com/Pramodya-Alahakoon" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=Pramodya-Alahakoon&label=Profile%20Views&color=A78BFA&style=for-the-badge" alt="Profile Views"/>
-</div>
-
 <br/>
 
 <div align="center">
@@ -27,7 +15,6 @@
 <br/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
-
 
 <br/>
 
