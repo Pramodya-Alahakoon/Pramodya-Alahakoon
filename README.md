@@ -256,12 +256,12 @@ const pramodya = {
 <br/>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pramodya-Alahakoon&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&border_radius=10&count_private=true&cache_seconds=21600" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pramodya-Alahakoon&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&border_radius=10&count_private=true&rank_icon=github" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=Pramodya-Alahakoon&theme=radical&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=FFFFFF&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramodya-Alahakoon&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&border_radius=10&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pramodya-Alahakoon&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&border_radius=10&langs_count=8" alt="Top Languages" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pramodya-Alahakoon&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&border_radius=10" alt="Contribution Graph" />
 </p>
 
