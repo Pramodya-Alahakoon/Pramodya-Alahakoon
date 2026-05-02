@@ -68,20 +68,9 @@ const pramodya = {
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Arsenal
 
+
 <table align="center">
   <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="55" height="55" alt="Kotlin" />
-      <br>Kotlin
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=dart" width="55" height="55" alt="Dart" />
-      <br>Dart
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=flutter" width="55" height="55" alt="Flutter" />
-      <br>Flutter
-    </td>
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
       <br>React
@@ -91,23 +80,31 @@ const pramodya = {
       <br>JavaScript
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML" />
-      <br>HTML
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
+      <br>TypeScript
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS" />
-      <br>CSS
+      <img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" alt="Next.js" />
+      <br>Next.js
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=php" width="55" height="55" alt="PHP" />
-      <br>PHP
+      <img src="https://skillicons.dev/icons?i=angular" width="55" height="55" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=redux" width="55" height="55" alt="Redux" />
+      <br>Redux
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=sass" width="55" height="55" alt="Sass" />
+      <br>Sass
     </td>
   </tr>
   <tr>
-    <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
-      <br>Java
-    </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" />
       <br>Node.js
@@ -129,18 +126,60 @@ const pramodya = {
       <br>MySQL
     </td>
     <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" alt="Firebase" />
       <br>Firebase
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="55" height="55" alt="Android" />
-      <br>Android
+      <img src="https://skillicons.dev/icons?i=redis" width="55" height="55" alt="Redis" />
+      <br>Redis
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
+      <br>Java
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+      <br>Python
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
+      <br>C++
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=c" width="55" height="55" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=cs" width="55" height="55" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=kotlin" width="55" height="55" alt="Kotlin" />
+      <br>Kotlin
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=go" width="55" height="55" alt="Go" />
+      <br>Go
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=php" width="55" height="55" alt="PHP" />
+      <br>PHP
     </td>
   </tr>
   <tr>
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
       <br>Docker
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55" />
+      <br>Kubernetes
     </td>
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
@@ -151,13 +190,23 @@ const pramodya = {
       <br>Git
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" alt="Figma" />
-      <br>Figma
+      <img src="https://skillicons.dev/icons?i=linux" width="55" height="55" alt="Linux" />
+      <br>Linux
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" alt="Postman" />
-      <br>Postman
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
+      <br>AWS
     </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=jenkins" width="55" height="55" alt="Jenkins" />
+      <br>Jenkins
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" alt="Actions" />
+      <br>Actions
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code" />
       <br>VS Code
@@ -167,11 +216,32 @@ const pramodya = {
       <br>IntelliJ
     </td>
     <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=figma" width="55" height="55" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="55" height="55" alt="Android" />
+      <br>Android
+    </td>
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=eclipse" width="55" height="55" alt="Eclipse" />
       <br>Eclipse
     </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=graphql" width="55" height="55" alt="GraphQL" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML" />
+      <br>HTML
+    </td>
   </tr>
 </table>
+
 
 <br/>
 
@@ -186,8 +256,8 @@ const pramodya = {
 <br/>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pramodya-Alahakoon&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&border_radius=10&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pramodya-Alahakoon&theme=radical&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=FFFFFF&border_radius=10" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pramodya-Alahakoon&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF&border_radius=10&count_private=true&cache_seconds=21600" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Pramodya-Alahakoon&theme=radical&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=FFFFFF&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <p align="center">
