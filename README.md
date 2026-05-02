@@ -261,7 +261,7 @@ const pramodya = {
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pramodya-Alahakoon&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&border_radius=10&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pramodya-Alahakoon&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&border_radius=10&langs_count=8&exclude_repo=MediLink,Online-Ayurvedic-Product-Distribution-System,Quality-Education,Wildtrack" alt="Top Languages" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pramodya-Alahakoon&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&border_radius=10" alt="Contribution Graph" />
 </p>
 
