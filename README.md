@@ -17,7 +17,6 @@
 ### 👋 Hello, I'm **Pramodya Alahakoon**
 
 🎓 **Software Engineering Undergraduate** at SLIIT (4th Year) <br/>
-📍 **Location:** From Matara · Currently in Malabe  <br/>
 💼 **Aspiring:** Full-Stack Developer, Mobile App Developer & DevOps Engineer <br/>   
 🎯 **2026 Goals:** Master microservices, deepen cloud knowledge & contribute to open source 
 
