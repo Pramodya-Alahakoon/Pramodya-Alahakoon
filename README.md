@@ -15,6 +15,14 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/><img src="assets/s02.svg" alt="02 — projects"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="Selected projects"/></picture>
+<div align="center">
+
+<a href="https://github.com/Pramodya-Alahakoon/Quality-Education"><img src="https://img.shields.io/badge/QUALITY_EDUCATION-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Quality Education repository"/></a>
+<a href="https://github.com/Pramodya-Alahakoon/MediLink"><img src="https://img.shields.io/badge/MEDILINK-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="MediLink repository"/></a>
+<a href="https://github.com/Pramodya-Alahakoon/Electricity-Monitoring-App"><img src="https://img.shields.io/badge/ELECTRICITY_MONITORING-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Electricity Monitoring App repository"/></a>
+<a href="https://github.com/Pramodya-Alahakoon/Online-Ayurvedic-Product-Distribution-System"><img src="https://img.shields.io/badge/AYURVEDIC_DISTRIBUTION-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Online Ayurvedic Product Distribution System repository"/></a>
+
+</div>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 — telemetry"/></picture>
 
