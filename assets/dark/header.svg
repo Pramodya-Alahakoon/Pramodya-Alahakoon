@@ -21,7 +21,7 @@
   <text class="mono fade a4" fill="var(--dim)" x="48" y="274" font-size="12.5" letter-spacing="1">focus  ▸</text>
   <text class="mono fade a4" fill="var(--ink)" x="128" y="274" font-size="12.5" letter-spacing="1">full-stack · mobile apps · cloud &amp; DevOps · distributed systems</text>
   <text class="mono fade a5" fill="var(--dim)" x="48" y="304" font-size="12.5" letter-spacing="1">status ▸</text>
-  <text class="mono fade a5" fill="var(--ink)" x="128" y="304" font-size="12.5" letter-spacing="1">software engineer intern · learning · building · shipping</text>
+  <text class="mono fade a5" fill="var(--ink)" x="128" y="304" font-size="12.5" letter-spacing="1">software engineer intern · learning · building</text>
   <line class="draw a6" x1="48" y1="338" x2="952" y2="338" stroke="var(--rule)" stroke-width="1"/>
   <g class="fade a7">
     <text class="mono" fill="var(--muted)" x="48" y="371" font-size="10.5" letter-spacing="2.6">REACT &amp; NODE</text>
