@@ -1,0 +1,32 @@
+<svg viewBox="0 0 1000 400" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pramodya Alahakoon — Software Engineering undergraduate and developer">
+  <style>
+    :root { --ink:#F2F2F2; --muted:#A0A0A0; --dim:#747474; --rule:#3E3E3E; --ghost:#333333; --node:#0D1117; }
+    .mono { font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace; }
+    .rise { opacity:0; animation:rise .7s cubic-bezier(.2,.7,.2,1) forwards; }
+    .fade { opacity:0; animation:fade .7s ease forwards; }
+    .draw { stroke-dasharray:1200; stroke-dashoffset:1200; animation:draw 1.5s cubic-bezier(.6,0,.2,1) forwards; }
+    .a1{animation-delay:.08s}.a2{animation-delay:.18s}.a3{animation-delay:.30s}.a4{animation-delay:.42s}.a5{animation-delay:.54s}.a6{animation-delay:.66s}.a7{animation-delay:.78s}
+    @keyframes rise { from{opacity:0;transform:translateY(8px)} to{opacity:1;transform:translateY(0)} }
+    @keyframes fade { to{opacity:1} }
+    @keyframes draw { to{stroke-dashoffset:0} }
+    @media (prefers-reduced-motion:reduce) { .rise,.fade,.draw{animation:none;opacity:1}.draw{stroke-dashoffset:0} }
+  </style>
+  <line class="draw a1" x1="48" y1="58" x2="952" y2="58" stroke="var(--rule)" stroke-width="1"/>
+  <g class="fade a1">
+    <text class="mono" fill="var(--muted)" x="48" y="44" font-size="11" letter-spacing="3.5">PORTFOLIO — INDEX Nº 001</text>
+    <text class="mono" fill="var(--muted)" x="952" y="44" font-size="11" letter-spacing="3.5" text-anchor="end">SRI LANKA — HYBRID</text>
+  </g>
+  <text class="mono rise a2" fill="var(--ink)" x="46" y="176" font-size="62" letter-spacing="-2">Pramodya Alahakoon</text>
+  <text class="mono fade a3" fill="var(--muted)" x="48" y="214" font-size="18">Fourth-year Software Engineering undergraduate — SLIIT.</text>
+  <text class="mono fade a4" fill="var(--dim)" x="48" y="274" font-size="12.5" letter-spacing="1">focus  ▸</text>
+  <text class="mono fade a4" fill="var(--ink)" x="128" y="274" font-size="12.5" letter-spacing="1">full-stack · mobile apps · cloud &amp; DevOps · distributed systems</text>
+  <text class="mono fade a5" fill="var(--dim)" x="48" y="304" font-size="12.5" letter-spacing="1">status ▸</text>
+  <text class="mono fade a5" fill="var(--ink)" x="128" y="304" font-size="12.5" letter-spacing="1">software engineer intern · learning · building · shipping</text>
+  <line class="draw a6" x1="48" y1="338" x2="952" y2="338" stroke="var(--rule)" stroke-width="1"/>
+  <g class="fade a7">
+    <text class="mono" fill="var(--muted)" x="48" y="371" font-size="10.5" letter-spacing="2.6">REACT &amp; NODE</text>
+    <text class="mono" fill="var(--muted)" x="300" y="371" font-size="10.5" letter-spacing="2.6">JAVA &amp; SPRING</text>
+    <text class="mono" fill="var(--muted)" x="590" y="371" font-size="10.5" letter-spacing="2.6">KOTLIN &amp; FLUTTER</text>
+    <text class="mono" fill="var(--muted)" x="952" y="371" font-size="10.5" letter-spacing="2.6" text-anchor="end">SLIIT — 2023 / 2027</text>
+  </g>
+</svg>

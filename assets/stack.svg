@@ -1,0 +1,22 @@
+<svg viewBox="0 0 1000 252" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Technical stack">
+  <style>
+    :root { --ink:#111111; --muted:#5F6368; --dim:#8A8A8A; --rule:#C9C9C9; --ghost:#DADADA; --node:#FFFFFF; }
+    .mono { font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace; }
+    .rise { opacity:0; animation:rise .7s cubic-bezier(.2,.7,.2,1) forwards; }
+    .fade { opacity:0; animation:fade .7s ease forwards; }
+    .draw { stroke-dasharray:1200; stroke-dashoffset:1200; animation:draw 1.5s cubic-bezier(.6,0,.2,1) forwards; }
+    .a1{animation-delay:.08s}.a2{animation-delay:.18s}.a3{animation-delay:.30s}.a4{animation-delay:.42s}.a5{animation-delay:.54s}.a6{animation-delay:.66s}.a7{animation-delay:.78s}
+    @keyframes rise { from{opacity:0;transform:translateY(8px)} to{opacity:1;transform:translateY(0)} }
+    @keyframes fade { to{opacity:1} }
+    @keyframes draw { to{stroke-dashoffset:0} }
+    @media (prefers-reduced-motion:reduce) { .rise,.fade,.draw{animation:none;opacity:1}.draw{stroke-dashoffset:0} }
+  </style>
+  <line x1="146" y1="8" x2="146" y2="244" stroke="var(--rule)" opacity=".65"/>
+  <text class="mono rise a1" x="48" y="32" font-size="11" fill="var(--muted)" letter-spacing="2">LANGUAGES</text><text class="mono rise a1" x="164" y="32" font-size="14.5" fill="var(--ink)">JavaScript · TypeScript · Java · Kotlin · Dart · Python · PHP</text>
+<text class="mono rise a2" x="48" y="66" font-size="11" fill="var(--muted)" letter-spacing="2">MOBILE</text><text class="mono rise a2" x="164" y="66" font-size="14.5" fill="var(--ink)">Kotlin · Android · Flutter · Dart</text>
+<text class="mono rise a3" x="48" y="100" font-size="11" fill="var(--muted)" letter-spacing="2">WEB</text><text class="mono rise a3" x="164" y="100" font-size="14.5" fill="var(--ink)">React · Next.js · Node.js · Express · Spring Boot · Tailwind CSS</text>
+<text class="mono rise a4" x="48" y="134" font-size="11" fill="var(--muted)" letter-spacing="2">DATA</text><text class="mono rise a4" x="164" y="134" font-size="14.5" fill="var(--ink)">MongoDB · MySQL · PostgreSQL · Firebase · Redis</text>
+<text class="mono rise a5" x="48" y="168" font-size="11" fill="var(--muted)" letter-spacing="2">DEVOPS</text><text class="mono rise a5" x="164" y="168" font-size="14.5" fill="var(--ink)">Docker · Kubernetes · GitHub Actions · AWS · Linux · Jenkins</text>
+<text class="mono rise a6" x="48" y="202" font-size="11" fill="var(--muted)" letter-spacing="2">DESIGN</text><text class="mono rise a6" x="164" y="202" font-size="14.5" fill="var(--ink)">REST APIs · MVC · Microservices · Event-driven systems · Clean code</text>
+<text class="mono rise a7" x="48" y="236" font-size="11" fill="var(--muted)" letter-spacing="2">TOOLING</text><text class="mono rise a7" x="164" y="236" font-size="14.5" fill="var(--ink)">Git · GitHub · VS Code · IntelliJ IDEA · Postman · Figma</text>
+</svg>

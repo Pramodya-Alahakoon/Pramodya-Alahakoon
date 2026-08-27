@@ -1,0 +1,33 @@
+<svg viewBox="0 0 1000 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Professional experience and education">
+  <style>
+    :root { --ink:#111111; --muted:#5F6368; --dim:#8A8A8A; --rule:#C9C9C9; --ghost:#DADADA; --node:#FFFFFF; }
+    .mono { font-family:ui-monospace,"SFMono-Regular","SF Mono",Menlo,Consolas,"Liberation Mono",monospace; }
+    .rise { opacity:0; animation:rise .7s cubic-bezier(.2,.7,.2,1) forwards; }
+    .fade { opacity:0; animation:fade .7s ease forwards; }
+    .draw { stroke-dasharray:1200; stroke-dashoffset:1200; animation:draw 1.5s cubic-bezier(.6,0,.2,1) forwards; }
+    .a1{animation-delay:.08s}.a2{animation-delay:.18s}.a3{animation-delay:.30s}.a4{animation-delay:.42s}.a5{animation-delay:.54s}.a6{animation-delay:.66s}.a7{animation-delay:.78s}
+    @keyframes rise { from{opacity:0;transform:translateY(8px)} to{opacity:1;transform:translateY(0)} }
+    @keyframes fade { to{opacity:1} }
+    @keyframes draw { to{stroke-dashoffset:0} }
+    @media (prefers-reduced-motion:reduce) { .rise,.fade,.draw{animation:none;opacity:1}.draw{stroke-dashoffset:0} }
+  </style>
+  <line x1="120" y1="12" x2="120" y2="302" stroke="var(--rule)" opacity=".65"/>
+  <g class="mono rise a1">
+    <text x="48" y="42" font-size="12" fill="var(--muted)" letter-spacing="2">2026</text>
+    <text x="136" y="42" font-size="15" fill="var(--ink)">Asipiya International · Software Engineer Intern</text>
+    <text x="136" y="68" font-size="14" fill="var(--muted)">contributing to web applications across design, development, testing, and debugging</text>
+    <text x="136" y="90" font-size="14" fill="var(--muted)">working with REST APIs, databases, MERN technologies, Java, JDBC, and MySQL</text>
+  </g>
+  <g class="mono rise a3">
+    <text x="48" y="142" font-size="12" fill="var(--muted)" letter-spacing="2">2023</text>
+    <text x="136" y="142" font-size="15" fill="var(--ink)">SLIIT · BSc (Hons) in Information Technology</text>
+    <text x="136" y="168" font-size="14" fill="var(--muted)">specialization in Software Engineering · expected completion in 2027</text>
+    <text x="136" y="190" font-size="14" fill="var(--muted)">full-stack development · mobile · databases · architecture · testing · DevOps</text>
+  </g>
+  <g class="mono rise a5">
+    <text x="48" y="242" font-size="12" fill="var(--muted)" letter-spacing="2">NOW</text>
+    <text x="136" y="242" font-size="15" fill="var(--ink)">building practical systems and deepening cloud and DevOps knowledge</text>
+    <text x="136" y="268" font-size="14" fill="var(--muted)">exploring microservices, event-driven architecture, Docker, Kubernetes, and CI/CD</text>
+    <text x="136" y="290" font-size="14" fill="var(--muted)">open to collaboration, open-source work, and software-engineering opportunities</text>
+  </g>
+</svg>
